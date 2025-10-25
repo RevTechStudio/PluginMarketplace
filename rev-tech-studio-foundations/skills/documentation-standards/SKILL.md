@@ -1,6 +1,6 @@
 ---
 name: Documentation Standards
-description: Common documentation standards for all project documents. Apply when creating or reviewing any documentation including README, design docs, and specifications.
+description: Common documentation standards for all project documents. Use when creating or reviewing any documentation including README, design docs, and specifications.
 ---
 
 # Documentation Standards
