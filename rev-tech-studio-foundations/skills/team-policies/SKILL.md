@@ -68,6 +68,13 @@ D. **その他**
 **推奨**: **[推奨する選択肢]** - [なぜその選択肢を推奨するのかの具体的な理由]
 ```
 
+### Requirements Clarification
+
+- **Never proceed with ambiguity**: Do not implement or create documentation when requirements are unclear
+- **Always ask questions**: When encountering unclear specifications, requirements, or expected behavior, always ask users for clarification
+- **Clarify before action**: Obtain clear answers before starting implementation or documentation work
+- **Confirm assumptions**: When making assumptions about requirements, explicitly state them and confirm with users
+
 ### Decision-Making Process
 
 - **Separate proposals from execution**: When multiple options exist, present proposals and seek user judgment
