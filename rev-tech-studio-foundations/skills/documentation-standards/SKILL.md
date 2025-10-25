@@ -68,3 +68,7 @@ After creating documentation, verify the following:
 - [ ] Development documents contain no code or pseudocode
 - [ ] Diagrams are written in Mermaid syntax
 - [ ] Checked with markdownlint-cli2 (if available)
+
+<!-- AI Ignore Start -->
+[SKILL-Japanese.md](SKILL-Japanese.md)
+<!-- AI Ignore End -->
