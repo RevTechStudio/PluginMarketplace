@@ -55,7 +55,7 @@ description: Development policies and interaction guidelines for team collaborat
 
 ### Question Format
 
-ユーザーに質問する際は、以下のフォーマットを使用してください：
+When asking users questions, use the following format:
 
 ```markdown
 1. **[質問の背景・理由]**
