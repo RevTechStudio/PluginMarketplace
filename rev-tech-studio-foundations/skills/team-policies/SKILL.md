@@ -47,6 +47,12 @@ description: Development policies and interaction guidelines for team collaborat
 - **Wait for explicit instructions**: Do not make code changes until users give clear instructions like "fix it" or "implement it"
 - **Explain changes**: Before modifying code, explain what and how you will change
 
+### Handling Contradictions
+
+- **Report immediately**: When contradictions are found in documentation or code, report them to users immediately
+- **Ask for resolution**: Ask users how to resolve the discovered contradictions
+- **Follow question format**: Use the standard question format when asking about contradiction resolution
+
 ### Question Format
 
 When asking users questions, use the following format:
