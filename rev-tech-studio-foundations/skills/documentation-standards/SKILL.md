@@ -1,6 +1,6 @@
 ---
 name: Documentation Standards
-description: Common documentation standards for all project documents. Apply when creating or reviewing any documentation including README, design docs, and specifications.
+description: Common documentation standards for all project documents. Use when creating or reviewing any documentation including README, design docs, and specifications.
 ---
 
 # Documentation Standards
@@ -68,3 +68,7 @@ After creating documentation, verify the following:
 - [ ] Development documents contain no code or pseudocode
 - [ ] Diagrams are written in Mermaid syntax
 - [ ] Checked with markdownlint-cli2 (if available)
+
+<!-- AI Ignore Start -->
+[SKILL-Japanese.md](SKILL-Japanese.md)
+<!-- AI Ignore End -->

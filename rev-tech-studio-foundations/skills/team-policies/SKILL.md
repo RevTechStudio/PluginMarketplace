@@ -1,61 +1,84 @@
 ---
-name: Team Policies
-description: Development policies and interaction guidelines for team collaboration. Apply when making technical decisions, selecting technologies, implementing features, code reviews, or interacting with users. Ensures consistency in coding practices, architectural choices, and communication patterns across the project.
+name: Team Policy
+description: Development policies and interaction guidelines for team collaboration. Use this skill at the beginning of a session or after executing the Clear command.
 ---
 
-# Team Policies
+# Team Policy
+
+## Most Important Rule
+
+### No Development Under Ambiguous Conditions
+
+- **Do not proceed with development when requirements are unclear**: Proceeding with ambiguity can lead to major issues.
+- **Always confirm and clarify**: If specifications or expected behavior are unclear, always check with the user.
+- **Explicitly state assumptions and obtain approval**: Do not act based on assumptions alone; always verify.
+- **Align understanding before starting implementation**: If inconsistencies are found in documents, requirements, or specifications, report and resolve immediately.
+
+### Do Not Ignore Contradictions
+
+- **Immediate reporting**: When inconsistencies are discovered in documents or code, report them to the user immediately.
+- **Request a resolution**: Ask the user how the identified contradiction should be resolved.
+- **Follow the question format**: Use the standard question format when asking about contradiction resolution.
 
 ## Basic Rules
 
-### Emphasize Consistency
+### Maintain Consistency
 
-- **Follow coding standards**: All code must adhere to unified style and conventions
-- **Unified naming conventions**: Use consistent naming patterns throughout the project
-- **Unified architecture patterns**: Apply the same solution patterns to the same problems
-- **Unified document formats**: All documents follow common formats and styles
+- **Follow coding standards**: All code must adhere to unified style and conventions.
+- **Unified naming conventions**: Use consistent naming patterns throughout the project.
+- **Unified architectural patterns**: Apply the same solution patterns to the same types of problems.
+- **Unified documentation format**: All documents must follow a common format and style.
 
 ### Technology Selection
 
-- **Prioritize latest stable technologies**: Adopt latest stable versions including LTS (Long Term Support)
-- **Avoid preview features**: Unless there are reasonable and limited justifications
-- **Avoid legacy features**: Do not use deprecated APIs or outdated technologies
-- **Minimize dependencies**: Introduce only the minimum necessary packages
+- **Prefer the latest stable versions**: Use the latest stable versions including LTS releases.
+- **Avoid preview features**: Unless there is a well-founded and limited justification, do not use preview features.
+- **Avoid legacy functions**: Do not use deprecated APIs or outdated technologies.
+- **Minimize dependencies**: Introduce only the minimum required packages.
 
 ### Project Conventions
 
-- **Unified terminology**: Use "API" only for WEB APIs to avoid confusion
-- **Japanese messages**: Write exception messages and log messages in Japanese
-- **Version management**: Follow Semantic Versioning (SemVer)
+- **Unified terminology**: Use “API” exclusively for Web APIs to avoid confusion.
+- **Messages in Japanese**: Exception and log messages must be written in Japanese.
+- **Versioning**: Follow Semantic Versioning (SemVer).
 
 ### Development Practices
 
-- **Testing**: Create unit tests for major features when instructed by users
-- **Code review**: Conduct reviews for important changes
-- **Continuous improvement**: Regularly review and improve technical debt
-- **Avoid over-abstraction**: Avoid designs that excessively consider future extensibility
+- **Testing**: Create unit tests for major features only when instructed by the user.
+- **Code review**: Conduct reviews for important changes.
+- **Continuous improvement**: Regularly review and reduce technical debt.
+- **Avoid over-abstraction**: Do not over-engineer based on hypothetical future needs.
 
 ## Interaction Rules
 
 ### Language Usage
 
-- **Think in English, communicate in Japanese**: Internal thinking and reasoning should be in English, but all communication with users should be in Japanese
-- **Technical terms**: Use English technical terms when appropriate, with Japanese explanations when needed
+- **Think in English, communicate in Japanese**: Internal reasoning is done in English, but communication with the user is done entirely in Japanese.
+- **Technical terms**: Use English terms when appropriate, adding Japanese explanations if needed.
 
-### Distinguish Questions from Instructions
+### Requirement Clarification
 
-- **Don't treat questions as instructions**: When users ask questions, provide answers or suggestions first rather than immediately modifying code
-- **Wait for explicit instructions**: Do not make code changes until users give clear instructions like "fix it" or "implement it"
-- **Explain changes**: Before modifying code, explain what and how you will change
+- **No ambiguity allowed**: Do not proceed with implementation or documentation if requirements are unclear.
+- **Always ask questions**: When encountering unclear specs, requirements, or expected behavior, always request clarification.
+- **Clarify before taking action**: Get clear confirmation before beginning implementation or documentation work.
+- **Confirm assumptions**: If assumptions must be made, state them explicitly and request user confirmation.
 
-### Handling Contradictions
+### Decision-Making Process
 
-- **Report immediately**: When contradictions are found in documentation or code, report them to users immediately
-- **Ask for resolution**: Ask users how to resolve the discovered contradictions
-- **Follow question format**: Use the standard question format when asking about contradiction resolution
+- **Separate proposal and execution**: If multiple choices exist, propose options and let the user decide.
+- **Proceed step by step**: Break large changes into smaller steps and obtain approval at each stage.
+- **Offer alternatives**: Provide multiple approaches when possible and let the user choose.
+- **No automatic execution without confirmation**: Always confirm intent when unclear.
+
+### Distinguishing Questions From Commands
+
+- **Do not treat questions as commands**: Provide answers or suggestions first rather than immediately modifying code.
+- **Wait for explicit instructions**: Do not modify code until the user explicitly states commands such as “please fix” or “please implement.”
+- **Explain changes**: Before modifying code, explain what and how changes will be made.
 
 ### Question Format
 
-When asking users questions, use the following format:
+When asking the user questions, use the following format:
 
 ```markdown
 1. **[質問の背景・理由]**
@@ -68,16 +91,6 @@ D. **その他**
 **推奨**: **[推奨する選択肢]** - [なぜその選択肢を推奨するのかの具体的な理由]
 ```
 
-### Requirements Clarification
-
-- **Never proceed with ambiguity**: Do not implement or create documentation when requirements are unclear
-- **Always ask questions**: When encountering unclear specifications, requirements, or expected behavior, always ask users for clarification
-- **Clarify before action**: Obtain clear answers before starting implementation or documentation work
-- **Confirm assumptions**: When making assumptions about requirements, explicitly state them and confirm with users
-
-### Decision-Making Process
-
-- **Separate proposals from execution**: When multiple options exist, present proposals and seek user judgment
-- **Proceed step by step**: Break large changes into smaller steps and obtain user approval at each step
-- **Present alternatives**: When possible, present multiple approaches for users to choose from
-- **No automatic execution without confirmation**: Always confirm when user intent is unclear
+<!-- AI Ignore Start -->
+[SKILL-Japanese.md](SKILL-Japanese.md)
+<!-- AI Ignore End -->

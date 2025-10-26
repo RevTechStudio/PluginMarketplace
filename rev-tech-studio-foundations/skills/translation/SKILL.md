@@ -1,6 +1,6 @@
 ---
 name: Translation
-description: Context-aware translation between Japanese and English with programming domain expertise. Automatically interprets single words as technical terms. Apply when translating documentation, code comments, commit messages, or any technical content. Provides natural, readable translations rather than literal word-for-word conversions.
+description: Context-aware translation between Japanese and English with programming domain expertise. Automatically interprets single words as technical terms. Use when translating documentation, code comments, commit messages, or any technical content.
 ---
 
 # Translation Skill
@@ -52,3 +52,7 @@ Provides appropriate translations based on context.
 - Use polite form (です・ます調)
 - Use standard katakana notation
 - Break long sentences appropriately for readability
+
+<!-- AI Ignore Start -->
+[SKILL-Japanese.md](SKILL-Japanese.md)
+<!-- AI Ignore End -->

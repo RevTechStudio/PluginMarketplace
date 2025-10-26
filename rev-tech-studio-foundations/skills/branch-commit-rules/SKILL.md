@@ -101,3 +101,7 @@ The goal is to improve visibility and enhance user experience.
 - Persist theme state in localStorage
 - Manage themes with CSS custom properties
 ```
+
+<!-- AI Ignore Start -->
+[SKILL-Japanese.md](SKILL-Japanese.md)
+<!-- AI Ignore End -->
