@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "rev-tech-studio-plugin-marketplace",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Plugin marketplace for RevTechStudio",
   "owner": {
     "name": "RevTechStudio",
@@ -11,13 +11,24 @@
     {
       "name": "rev-tech-studio-foundations",
       "source": "./rev-tech-studio-foundations",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "description": "RevTechStudio Foundation Plugin",
       "author": {
         "name": "RevTechStudio",
         "email": "RevTechStudio@users.noreply.github.com"
       },
       "category": "team-standards"
+    },
+    {
+      "name": "rev-tech-studio-sdd",
+      "source": "./rev-tech-studio-sdd",
+      "version": "0.1.0",
+      "description": "RevTechStudio SDD Plugin",
+      "author": {
+        "name": "RevTechStudio",
+        "email": "RevTechStudio@users.noreply.github.com"
+      },
+      "category": "sdd"
     }
   ]
 }

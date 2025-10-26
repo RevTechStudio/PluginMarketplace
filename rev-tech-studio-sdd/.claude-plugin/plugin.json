@@ -1,7 +1,7 @@
 {
-  "name": "rev-tech-studio-foundations",
-  "version": "0.3.2",
-  "description": "RevTechStudio Foundation Plugin",
+  "name": "rev-tech-studio-sdd",
+  "version": "0.1.0",
+  "description": "RevTechStudio SDD Plugin",
   "author": {
     "name": "RevTechStudio",
     "email": "RevTechStudio@users.noreply.github.com"
@@ -9,5 +9,5 @@
   "homepage": "https://github.com/RevTechStudio/PluginMarketplace",
   "repository": "https://github.com/RevTechStudio/PluginMarketplace",
   "license": "MIT",
-  "keywords": ["RevTechStudio", "coding-standards", "team-policies", "c-sharp", "git-workflow"]
+  "keywords": ["RevTechStudio"]
 }
