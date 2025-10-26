@@ -22,7 +22,7 @@ Common rules to apply when creating all documentation.
 - Avoid verbose expressions
 - Make key points clear
 - Use bullet points effectively
-- Keep sentences short, but do not omit essential information
+- Keep sentences short by refining expressions and eliminating redundancy, not by omitting information
 
 ### Code Prohibition in Development Documents
 
