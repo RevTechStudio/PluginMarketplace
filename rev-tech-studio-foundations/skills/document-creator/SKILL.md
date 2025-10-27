@@ -1,5 +1,5 @@
 ---
-name: ドキュメント作成者
+name: document-creator
 description: すべてのプロジェクト文書に共通するドキュメント標準。README、設計書、仕様書などの作成・レビュー時に使用する。
 ---
 
