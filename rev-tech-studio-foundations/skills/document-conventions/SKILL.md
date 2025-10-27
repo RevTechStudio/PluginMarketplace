@@ -1,6 +1,6 @@
 ---
 name: document-conventions
-description: すべてのプロジェクト文書に共通するドキュメント規約。README、設計書、仕様書などの作成・修正・レビュー時に使用する。
+description: すべてのプロジェクト文書に共通するドキュメント規約。README、設計書、仕様書などのマークダウンファイル作成・修正・レビュー時に使用する。
 ---
 
 # Document Conventions
