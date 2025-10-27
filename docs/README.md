@@ -46,13 +46,8 @@ RevTechStudioマーケットプレイスで配布されるすべてのプラグ�
 
 ## 個別ガイドライン
 
-### [コマンドガイドライン](./guideline-command.md)
-
-コマンドファイルの作成・設計に関するルール
-
-### [スキルガイドライン](./guideline-skill.md)
-
-スキルの設計・実装に関するルール
+- [コマンドガイドライン](./guideline-command.md)
+- [スキルガイドライン](./guideline-skill.md)
 
 ## チェックリスト
 
@@ -63,8 +58,3 @@ RevTechStudioマーケットプレイスで配布されるすべてのプラグ�
 - [ ] スキルが汎用的で再利用可能な設計になっている
 - [ ] プロジェクト固有の構造に依存していない
 - [ ] 個別ガイドライン（コマンド・スキル）に準拠している
-
-## 関連ドキュメント
-
-- [Documentation Standards](../rev-tech-studio-foundations/skills/documentation-standards/SKILL.md) - ドキュメント作成の標準
-- [Coding Standards](../rev-tech-studio-foundations/skills/coding-standards/SKILL.md) - コーディング標準
