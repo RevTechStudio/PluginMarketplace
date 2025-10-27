@@ -1,9 +1,9 @@
 ---
-name: brainstorm
+name: brainstorming
 description: プログラミングプロジェクトのアイディアを深掘りするスキル。Why/Who/Whatの3軸で明確化し、建設的な批判と代替案提示を通じて最適な方向性を導く。実現可能性を評価し、明確に優位性のある場合にピボットを提案する。
 ---
 
-# Brainstorm
+# Brainstorming
 
 ## 目的
 
@@ -252,7 +252,7 @@ Why/Who/Whatが明確になった時点で、実現可能性を簡易評価す�
 
 - Markdown形式で作成する
 - 保存先はユーザーに確認する
-- ファイル名: `{プロジェクト名}_brainstorm.md`
+- ファイル名: `{プロジェクト名}_brainstorming.md`
 
 **ドキュメント例:**
 
