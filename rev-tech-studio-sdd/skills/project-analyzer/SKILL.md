@@ -48,14 +48,14 @@ description: 既存プロジェクトのドキュメントとソースコード�
   - 詳細な仕様や設計を確認する
 - ARCHITECTURE.md / DESIGN.md
   - システムの設計思想を理解する
-- package.json / requirements.txt / pom.xml
+- *.csproj / packages.config / Directory.Build.props
   - 使用技術と依存関係を特定する
 
 **ソースコード（優先度: 中）:**
 
-- メインエントリーポイント（main.py, index.js, App.javaなど）
+- メインエントリーポイント（Program.cs, Startup.cs, App.xaml.csなど）
   - アプリケーションの起動処理と構造を把握する
-- 設定ファイル（config.*, settings.*）
+- 設定ファイル（appsettings.json, web.config, app.config）
   - データベースや外部サービスの利用を確認する
 - 主要なディレクトリ内のコアファイル
   - 実装の詳細を理解する
