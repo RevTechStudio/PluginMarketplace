@@ -15,7 +15,7 @@
   - 許容: `pdf-processing`, `code-analysis`
   - 避ける: `helper`, `utils`, `tools`
 
-### description フィールド（スキル名）
+### description フィールド（スキル説明）
 
 - [ ] **文字数制限**: 1024文字以内
 - [ ] **空でない**: 内容が存在する
