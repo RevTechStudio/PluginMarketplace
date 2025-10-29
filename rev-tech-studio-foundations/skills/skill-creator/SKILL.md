@@ -96,9 +96,9 @@ description: スキルを作成・検証・改善する。新規スキルの作�
 
 設計に基づきSKILL.mdを以下の構造で生成する：
 
-[SKILLテンプレート](./templates/skill-template.md)
+[スキルテンプレート](./templates/skill-template.md)
 
-テンプレート使用ガイド:
+スキルテンプレート使用ガイド:
 
 - [ ]で囲まれた部分は具体的な内容に置き換える
 - 不要なセクションは削除可能
