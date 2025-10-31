@@ -4,7 +4,7 @@ description: アイディアから実装可能な要件定義書を作成する
 
 # Requirement
 
-requirements-definitionスキルを使用してアイディアから要件定義書を作成する。
+requirements-definitionスキルを使用してアイディアドキュメントから要件定義書を作成する。
 
 - **アイディアドキュメント**: `./.spec/idea.md`
 
