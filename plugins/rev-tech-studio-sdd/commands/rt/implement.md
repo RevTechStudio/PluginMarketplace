@@ -14,4 +14,6 @@ implementationスキルを使用して実装する。
 
 ```markdown
 実装が完了しました。
+
+次は`/rt:check-discrepancies`コマンドを実行して矛盾チェックを行ってください。
 ```
