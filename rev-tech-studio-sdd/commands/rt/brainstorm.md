@@ -4,7 +4,7 @@ description: プロジェクトのアイディアを深掘りし、方向性を�
 
 # Brainstorm
 
-brainstormingスキルを使用してプロジェクトのアイディアを深掘りする。
+brainstormingスキルを使用してプロジェクト解析結果をもとにアイディアを深掘りする。
 
 - **プロジェクト解析結果**: `./.spec/project-analysis.md`
 
