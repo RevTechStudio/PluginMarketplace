@@ -4,9 +4,7 @@ description: プロジェクト全体の矛盾をチェックする
 
 # Check Discrepancies
 
-## 作業内容
-
-checking-contradictionsスキルを使用して、プロジェクト全体の矛盾をチェックする。
+`checking-contradictions`スキルを使用して、プロジェクト全体の矛盾をチェックする。
 
 以下の観点から矛盾を検出する：
 

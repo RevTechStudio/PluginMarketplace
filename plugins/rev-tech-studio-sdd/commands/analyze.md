@@ -4,9 +4,8 @@ description: プロジェクトの構造と技術スタックを分析し、ド�
 
 # Analyze
 
-## 作業内容
-
-project-analyzerスキルを使用してプロジェクトを分析する。
+`project-analyzer`スキルを使用してプロジェクトを分析する。  
+ドキュメント作成は`document-conventions`および`development-conventions`に準拠すること。  
 
 分析結果は以下のパスに保存：
 
@@ -17,5 +16,5 @@ project-analyzerスキルを使用してプロジェクトを分析する。
 ```markdown
 解析結果を出力しました。
 
-次は`/rt:brainstorm`コマンドを実行してアイディアの深堀を行ってください。
+次は`/brainstorm`コマンドを実行してアイディアの深堀を行ってください。
 ```

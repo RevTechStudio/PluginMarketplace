@@ -4,9 +4,8 @@ description: 実装計画書を作成する
 
 # Implement
 
-## 作業内容
-
-implementationスキルを使用して実装する。
+`implementation`スキルを使用して実装する。  
+`coding-conventions`および`development-conventions`に準拠すること。  
 
 - **実装計画書**: `./.spec/tasks.md`
 
@@ -15,5 +14,5 @@ implementationスキルを使用して実装する。
 ```markdown
 実装が完了しました。
 
-次は`/rt:check-discrepancies`コマンドを実行して矛盾チェックを行ってください。
+次は`/check-discrepancies`コマンドを実行して矛盾チェックを行ってください。
 ```
