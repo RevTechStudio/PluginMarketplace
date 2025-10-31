@@ -41,14 +41,15 @@ RevTechStudioの開発標準とベストプラクティス、システム設計�
 
 ### 2. rev-tech-studio-sdd
 
-プロジェクトのアイデア出しから詳細設計までのライフサイクルをカバーするプラグイン。
+プロジェクトのアイデア出しから詳細設計、実装までのライフサイクルをカバーするプラグイン。
 
-#### 提供スキル（4種類）
+#### 提供スキル（5種類）
 
 - **brainstorming** - Why/Who/Whatフレームワークによる深掘りアイデア出し
 - **project-analyzer** - 既存プロジェクトの構造分析と情報抽出
 - **requirements-definition** - アイデアから実装可能な要求定義への変換
 - **detailed-design** - 要求定義から実装可能な詳細設計の作成
+- **implementation** - 詳細設計を実装コードに落とし込み、テストと品質チェックを実施
 
 #### スラッシュコマンド（3種類）
 
@@ -65,7 +66,7 @@ graph TD
     A["/rt:analyze<br/>既存プロジェクト分析"] --> B["/rt:brainstorm<br/>アイデア明確化"]
     B --> C["requirements-definition<br/>要求定義"]
     C --> D["/rt:design<br/>詳細設計"]
-    D --> E["開発<br/>(coding-conventions,<br/>branch-commit-conventions,<br/>document-conventions使用)"]
+    D --> E["implementation<br/>実装・テスト<br/>(coding-conventions,<br/>branch-commit-conventions,<br/>document-conventions準拠)"]
     E --> F["checking-contradictions<br/>一貫性検証"]
 ```
 
