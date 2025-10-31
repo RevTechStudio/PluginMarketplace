@@ -20,7 +20,7 @@
       "name": "rev-tech-studio-sdd",
       "source": "./plugins/rev-tech-studio-sdd",
       "description": "RevTechStudio SDD Plugin",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "RevTechStudio"
       }
