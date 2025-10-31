@@ -1,6 +1,6 @@
 # PluginMarketplace
 
-RevTechStudioの開発標準とベストプラクティス、システム設計・開発を支援するClaude Code用スキルコレクション。
+RevTechStudioの開発標準とベストプラクティス、システム設計・開発を支援するClaude Code用プラグインマーケットプレイス。
 
 ## 概要
 
@@ -8,11 +8,9 @@ RevTechStudioの開発標準とベストプラクティス、システム設計�
 
 ## スキルパッケージ
 
-### 1. rev-tech-studio-foundations (v0.3.2)
+### 1. rev-tech-studio-foundations
 
-**カテゴリ:** `team-standards`
-
-開発の基盤となる規約、標準、ツールを提供するスキルパッケージ。
+開発の基盤となる規約、標準、ツールを提供するプラグイン。
 
 #### 提供スキル（10種類）
 
@@ -41,11 +39,9 @@ RevTechStudioの開発標準とベストプラクティス、システム設計�
 - **skill-creator** - 新規スキル作成と既存スキルの検証・改善
 - **command-creator** - 新規コマンド作成と既存コマンドの検証・改善
 
-### 2. rev-tech-studio-sdd (v0.1.0)
+### 2. rev-tech-studio-sdd
 
-**カテゴリ:** `sdd` (System Design & Development)
-
-プロジェクトのアイデア出しから詳細設計までのライフサイクルをカバーするスキルパッケージ。
+プロジェクトのアイデア出しから詳細設計までのライフサイクルをカバーするプラグイン。
 
 #### 提供スキル（4種類）
 
