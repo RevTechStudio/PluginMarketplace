@@ -4,7 +4,7 @@ description: 実装計画書を作成する
 
 # Tasks
 
-`task-planning`スキルを使用して、詳細設計書から実装計画書を作成する。  
+`rev-tech-studio-sdd:task-planning`スキルを使用して、詳細設計書から実装計画書を作成する。  
 ドキュメント作成は`document-conventions`および`development-conventions`に準拠すること。  
 
 - **詳細設計書**: `./.spec/design.md`
